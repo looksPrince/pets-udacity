@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All Pets</string>
+
+    <string name="editor_activity_title_new_pet">Add a Pet</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="category_gender">Gender</string>
+
+    <string name="category_measurement">Measurement</string>
+
+    <string name="hint_pet_name">Name</string>
+
+    <string name="hint_pet_breed">Breed</string>
+
+    <string name="hint_pet_weight">Weight</string>
+
+    <string name="unit_pet_weight">kg</string>
+
+    <string name="gender_unknown">Unknown</string>
+
+    <string name="gender_male">Male</string>
+
+    <string name="gender_female">Female</string>
+
+    <string name="editor_insert_pet_successful">Pet saved</string>
+
+    <string name="editor_insert_pet_failed">Error with saving pet</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a pet</string>
+    
+    <string name="editor_activity_title_edit_pet">Edit Pet</string>
+
+    <string name="editor_update_pet_successful">Pet updated</string>
+
+    <string name="editor_update_pet_failed">Error with updating pet</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_pet_successful">Pet deleted</string>
+
+    <string name="editor_delete_pet_failed">Error with deleting pet</string>
+
+    <string name="delete_dialog_msg">Delete this pet?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="unknown_breed">Unknown breed</string>
+</resources>
